@@ -1,5 +1,5 @@
-# nvidia-drivers-to-GeForce-710M
-This bash script install nvidia drivers to GeForce 710M
+# nvidia-drivers-to-GeForce-710M to POP_Os Linux 
+This bash script install nvidia drivers to GeForce 710M 
 
 
 ```
